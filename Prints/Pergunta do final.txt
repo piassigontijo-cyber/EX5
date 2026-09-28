@@ -1,0 +1,1 @@
+A informação que atravessa a USB é a leitura do potenciômetro, enviada pelo Arduino no formato POT:valor. Esse protocolo facilita a integração porque permite que o navegador identifique e processe diretamente o valor recebido, convertendo-o em porcentagem e tensão para atualizar o dashboard.
